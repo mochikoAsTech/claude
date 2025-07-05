@@ -1,0 +1,16 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+mcp-examples/**/.env
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
